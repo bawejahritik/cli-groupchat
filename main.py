@@ -62,7 +62,7 @@ def main(server, client):
     #     receive_thread = threading.Thread(target=receive)               #receiving multiple messages
     #     receive_thread.start()
     #     write_thread = threading.Thread(target=write, args=(username, ))                   #sending messages 
-        # write_thread.start()
+x
 
 if __name__ == '__main__':
     main()
